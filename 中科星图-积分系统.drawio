@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T03:26:14.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XbcWFgSyz6qeIpVtL7Up" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T03:04:25.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rR_EWn7f43P8YuTp_0Wt" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,9 +135,6 @@
         <mxCell id="vo5_xbkKXeh1uVnPVetr-68" value="" style="swimlane;startSize=0;" parent="vo5_xbkKXeh1uVnPVetr-10" vertex="1">
           <mxGeometry x="220" width="200" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="vo5_xbkKXeh1uVnPVetr-25" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="240" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="vo5_xbkKXeh1uVnPVetr-57" value="企业加分" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="585" width="120" height="80" as="geometry" />
         </mxCell>
@@ -165,9 +162,6 @@
         </mxCell>
         <mxCell id="vo5_xbkKXeh1uVnPVetr-75" value="上传文档" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vo5_xbkKXeh1uVnPVetr-78" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="250" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vo5_xbkKXeh1uVnPVetr-86" value="不通过企业扣分" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="5" y="890" width="120" height="80" as="geometry" />
